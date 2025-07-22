@@ -13,6 +13,7 @@ try:
  
  if idade >= 18:
     print(f"Voçê é maior de idade")
+ 
  else:
     print(f"Voçê é menor de idade")
 
@@ -22,3 +23,11 @@ except ValueError:
 #solicita que o usuário informe sua cidade
 cidade: str = input("Qual a sua cidade? ")
 print(f"Sua cidade é {cidade}")
+
+#solicita que o usuário informe o seu estado
+estado: str = input("Qual o seu estado? ")
+print(f"Voçê mora em {cidade}, {estado}")
+
+
+      
+      
