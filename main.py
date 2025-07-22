@@ -32,6 +32,11 @@ print(f"Voçê mora em {cidade}, {estado}")
 profissao: str = input("Qual a sua profissão? ")
 print(f"Sua profissão é: {profissao}")
 
+#solicita que o usuário informe um hobby
+
+hobby: str = input("Qual o seu hobby? ")
+print(f"Que hobby interessante! Também gosto muito de {hobby}")
+
 
       
       
