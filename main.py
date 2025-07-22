@@ -7,3 +7,6 @@ print(f"Olá, {nome}!")
 #solicita que o usuário informe qual a sua idade
 idade: int = input("Quantos anos voçê tem? ")
 print(f"Sua idade é {idade}!")
+#solicita que o usuário informe sua cidade
+cidade: str = input("Qual a sua cidade? ")
+print(f"Sua cidade é {cidade}")
