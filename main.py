@@ -28,6 +28,10 @@ print(f"Sua cidade é {cidade}")
 estado: str = input("Qual o seu estado? ")
 print(f"Voçê mora em {cidade}, {estado}")
 
+#solicita que o usuário informe sua profissão
+profissao: str = input("Qual a sua profissão? ")
+print(f"Sua profissão é: {profissao}")
+
 
       
       
